@@ -128,11 +128,11 @@
 	},
 	"sources": {
 		"contracts/MyToken.sol": {
-			"keccak256": "0x8422de7dbb6b957e8db1b65bf094970ba26a3cfae46b4f24a4d90b6a6ae3b265",
+			"keccak256": "0x5bbad469e46cee3637a2c5ffb385e6e3afe05b33b831e9cbe2b46516bfd655da",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e9fd4c0ab7393da89e3676d72ae2164737f250d08b0203e56014484d999f1f69",
-				"dweb:/ipfs/QmUg2axGgZoComYbM157Q1cjQq88hUDhNgs3zjTK1er6NM"
+				"bzz-raw://d41a0852ef60a47c58e77c6f442d98668c684c7835576842d484278ef94fe961",
+				"dweb:/ipfs/QmVt25grRczHRJyn24wJ2QsT5iZpCTquwJP5oGJqpp1Z8f"
 			]
 		}
 	},
